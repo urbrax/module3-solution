@@ -1,0 +1,76 @@
+/*header*/
+body {
+    font-size: 16px;
+    color:black;
+    background-color:#E1F5FE ;
+    font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav {
+    background-color: #F44336;
+    border-radius: 0;
+    border: 0;
+}
+.navbar-brand {
+    padding-top:20x;
+}
+.navbar-brand h1 {
+    font-family: monotype corsiva;
+    color:#FFFFFF ;
+    font-size:1.9em;
+    text-align:center;
+    font-weight:bold;
+    text-shadow:1px 1px 1px #111;
+    margin-top:0;
+    margin-bottom: 0;
+    line-height:.75;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+    text-decoration: none;
+}
+
+#nav-list {
+    margin-top:10px;
+}
+#nav-list a {
+    color:#F7FE02;
+    text-align: center;
+}
+#nav-list a:hover {
+    background: #F1948A;
+}
+#nav-list a span {
+    font-size: 1.8em;
+}
+
+#page-title{
+    margin-bottom:30px;
+    font-family:Casteller;
+    font-weight:bold;
+    color:#8E24AA;
+    text-shadow:0 1px 2px #000000;
+}
+
+.chicken, .beef, .sushi{
+    background-color: #1E88E5;
+    border-radius:5px;
+    border: 2px solid #00FF66;
+    width: 100%;
+    margin-bottom: 15px;
+    position: relative;
+}
+
+p{
+    color:#ffffff;
+}
+
+.text-center{
+    font-family:arial sans-serif;
+    color:#FFEB3B;
+}
+
+a{
+    color:#fffffa;
+}
+/*End of module 3*/
